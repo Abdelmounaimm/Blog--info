@@ -1,4 +1,4 @@
-# Blog-CMS
+# Blog-info
 
 ## Contexte
 Le blog informatif a été développé pour créer un réseau personnel d'informations où une personne peut facilement consulter les informations ; il s'agit simplement d'un blog personnel utile pour publier des contenus au jour le jour.
